@@ -11,14 +11,13 @@ Atualmente, estou imersa no estudo e desenvolvimento de projetos em:
 * **Cibersegurança:** Explorando Pentesting e Ethical Hacking como área de interesse e estudo complementar.
 
 Sou apaixonada por transformar ideias em código, resolver desafios tecnológicos e estou sempre em busca de aprendizado contínuo.
-<div>
-  <a href="https://github.com/carauu/">
-
-<img height=“180cm" src="https://github-readme-stats.vercel.app/api?username=carauu&show_icons=true&theme-dracula&include_all_commits=true&count_private=true">
-
-‹img height=“180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carauu8layout=compact&langs_count=16&theme=dracula">
-</div>
 Este GitHub é o meu espaço para compartilhar a jornada dos meus estudos e projetos. Sinta-se à vontade para explorar meus repositórios fixados!
 
 #### [LinkedIn](https://www.linkedin.com/in/carolinarlima/) 
 #### [Contato Profissional](carolinarlima@outlook.com)
+
+<div>
+<a href="https://github.com/carauu/">
+<img height=“180cm" src="https://github-readme-stats.vercel.app/api?username=carauu&show_icons=true&theme-dracula&include_all_commits=true&count_private=true">
+<img height=“180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carauu8layout=compact&langs_count=16&theme=dracula">
+</div>
