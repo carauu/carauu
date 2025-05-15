@@ -14,6 +14,5 @@ Sou apaixonada por transformar ideias em código, resolver desafios tecnológico
 
 Este GitHub é o meu espaço para compartilhar a jornada dos meus estudos e projetos. Sinta-se à vontade para explorar meus repositórios fixados!
 
-#### **LinkedIn:** https://www.linkedin.com/in/carolinarlima/
-#### **Portfólio:**
-#### **Contato Profissional:** carolinarlima@outlook.com
+#### [LinkedIn](https://www.linkedin.com/in/carolinarlima/) 
+#### [Contato Profissional](carolinarlima@outlook.com)
