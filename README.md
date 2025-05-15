@@ -18,6 +18,6 @@ Este GitHub é o meu espaço para compartilhar a jornada dos meus estudos e proj
 
 <div>
 <a href="https://github.com/carauu/">
-<img height=“180cm" src="https://github-readme-stats.vercel.app/api?username=carauu&show_icons=true&theme-dracula&include_all_commits=true&count_private=true">
+<img height=“180cm" src="https://github-readme-stats.vercel.app/api?username=carauu&show_icons=true&theme-dracula&include_all_commits=true&count_private=true&theme=dracula">
 <img height=“180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carauu&layout=compact&langs_count=16&theme=dracula">
 </div>
