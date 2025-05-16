@@ -41,7 +41,7 @@
 <a href="https://www.linkedin.com/in/carolinarlima/">
   <img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
 </a>
-<a href="carolinarlima@outlook.com">
+<a href="mailto:carolinarlima@outlook.com">
   <img height="30" widht="40" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Microsoft_Outlook_new_logo.svg" alt="Email">
 </a>
           
