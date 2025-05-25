@@ -8,7 +8,7 @@
       <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
        habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
         <p>Atualmente, estou imersa no estudo e desenvolvimento de projetos em:<br>
-        -> Desenvolvimento Full-Stack: HTML, CSS, JavaScript e Python; <br>
+        -> Desenvolvimento Full-Stack: HTML, CSS, JavaScript, Python e PHP; <br>
         -> Inteligência Artificial: Com foco especial em projetos de Agentes de IA;<br>
         -> Cibersegurança: Explorando Pentesting e Ethical Hacking como área de interesse e estudo complementar.</p>
     </td>
